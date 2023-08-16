@@ -5,6 +5,7 @@ from sqlalchemy.orm import sessionmaker
 import models
 from secrets import token_hex
 
+
 app = FastAPI()
 
 
